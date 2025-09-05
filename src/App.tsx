@@ -1,5 +1,5 @@
 import "./App.css";
-import BlogApp from "./compoment/Filter";
+import BlogApp from "./compoment/content";
 
 function App() {
   return (
